@@ -10,7 +10,6 @@
 
 ## About Me
 
-<br><br>
 - :computer: `Software Developer`.
 - :globe_with_meridians: `Web Developer` Front-End - Back-End.
 - :student: `Systems Engineer` - Eighth semester.
