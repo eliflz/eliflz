@@ -14,7 +14,6 @@
 - :student: `Systems Engineer` - Eighth semester.
 - :briefcase: Open to new `job opportunities`.
 - :mag_right: Always looking for new technologies to keep learning and strengthening my skills with the goal of enhancing projects and contributing to their continuous improvement.
-<br>
 
 ## Technical Skills
 
