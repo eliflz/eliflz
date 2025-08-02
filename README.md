@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eliflz/eliflz/65b9e96353908f6da0f7fad929c60d13b7800a6c/Banner.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 50px; margin-top: -10px; margin-bottom: 10px;">
+  <img src="https://github.com/eliflz/eliflz/blob/d52f0b40f0e9d06b23977469975e2b7b0669fefc/Bannergit.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 50px; margin-top: -10px; margin-bottom: 10px;">
 </p>
 
 </p>	
