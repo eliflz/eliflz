@@ -8,24 +8,24 @@
 
 </p>	
 
-## Sobre Mi
+## About Me
 
 <br><br>
-- :computer: `Desarrollador de Software`.
-- :globe_with_meridians: `Desarrollador Web` Front-End - Back-End.
-- :student: `Ingeniero en Sistemas` - Octavo semestre.
-- :briefcase: Abierto a nuevas `oportunidades laborales`.
-- :mag_right: En busca de nuevas tecnologías para seguir aprendiendo y fortaleciendo mis habilidades con el objetivo de potenciar proyectos y contribuir a su mejora continua.
+- :computer: `Software Developer`.
+- :globe_with_meridians: `Web Developer` Front-End - Back-End.
+- :student: `Systems Engineer` - Eighth semester.
+- :briefcase: Open to new `job opportunities`.
+- :mag_right: Always looking for new technologies to keep learning and strengthening my skills with the goal of enhancing projects and contributing to their continuous improvement.
 <br>
 
-## Habilidades Técnicas
+## Technical Skills
 
-<h4> Lenguages </h4>
+<h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-<h4> Desarrollo Web </h4>
+<h4> Web Development </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -47,15 +47,20 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-<h4> Control De Versiones </h4>
+<h4> Version Control </h4>
 <span>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 
-<h4> Entornos De Desarrollo</h4>
+<h4> Development Environments</h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 
 </span>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=eliflz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/eliflz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=eliflz&theme=material-palenight)](https://github.com/eliflz)
+</div>
