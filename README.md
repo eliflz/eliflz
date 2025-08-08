@@ -7,7 +7,7 @@
 
 </p>	
 
-## 📬 Contact
+## Contact 📬
 
 <p align="center">
   <br/>
