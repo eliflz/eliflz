@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/eliecer-arias-florez-6b4229267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ariasflorezeliecer956@gmail.com" target="_blank">
+ <a href="mailto:ariasflorezeliecer956@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
