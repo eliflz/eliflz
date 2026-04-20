@@ -27,7 +27,7 @@
 
 - :computer: `Software Developer`.
 - :globe_with_meridians: `Web Developer` Front-End - Back-End.
-- :student: `Systems Engineer` - Eighth semester.
+- :student: `Systems Engineer` - ninth semester.
 - :briefcase: Open to new `job opportunities`.
 - :mag_right: Always looking for new technologies to keep learning and strengthening my skills with the goal of enhancing projects and contributing to their continuous improvement.
 
